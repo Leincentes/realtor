@@ -14,37 +14,37 @@ const CommunitiesGrid: React.FC = () => {
       id: 1,
       name: 'Mountain Falls',
       description: 'Golf course living with stunning mountain views and upscale amenities.',
-      image: '/src/assets/6th.webp'
+      image: 'https://raw.githubusercontent.com/Leincentes/realtor/refs/heads/main/src/assets/6th.webp'
     },
     {
       id: 2,
       name: 'Winery District',
       description: 'Charming homes near local vineyards and tasting rooms.',
-      image: '/src/assets/7th.webp'
+      image: 'https://raw.githubusercontent.com/Leincentes/realtor/refs/heads/main/src/assets/7th.webp'
     },
     {
       id: 3,
       name: 'Desert Trails',
       description: 'Affordable family neighborhoods with easy highway access.',
-      image: '/src/assets/8th.webp'
+      image: 'https://raw.githubusercontent.com/Leincentes/realtor/refs/heads/main/src/assets/8th.webp'
     },
     {
       id: 4,
       name: 'Calvada Valley',
       description: 'Spacious lots and custom homes in a peaceful setting.',
-      image: '/src/assets/9th.webp'
+      image: 'https://raw.githubusercontent.com/Leincentes/realtor/refs/heads/main/src/assets/9th.webp'
     },
     {
       id: 5,
       name: 'Artesia',
       description: 'Modern development with resort-style amenities.',
-      image: '/src/assets/11th.webp'
+      image: 'https://raw.githubusercontent.com/Leincentes/realtor/refs/heads/main/src/assets/11th.webp'
     },
     {
       id: 6,
       name: 'Spring Mountain',
       description: 'Secluded luxury homes with panoramic desert vistas.',
-      image: '/src/assets/12th.webp'
+      image: 'https://raw.githubusercontent.com/Leincentes/realtor/refs/heads/main/src/assets/12th.webp'
     }
   ];
 

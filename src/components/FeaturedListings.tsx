@@ -23,7 +23,7 @@ const FeaturedListings: React.FC = () => {
       baths: 2,
       sqft: '1,845',
       neighborhood: 'Mountain Falls',
-      image: '/src/assets/1st.webp',
+      image: 'https://raw.githubusercontent.com/Leincentes/realtor/refs/heads/main/src/assets/1st.webp',
       badge: 'New'
     },
     {
@@ -34,7 +34,7 @@ const FeaturedListings: React.FC = () => {
       baths: 3,
       sqft: '2,340',
       neighborhood: 'Winery District',
-      image: '/src/assets/2nd.webp',
+      image: 'https://raw.githubusercontent.com/Leincentes/realtor/refs/heads/main/src/assets/2nd.webp',
       badge: 'Open House'
     },
     {
@@ -45,7 +45,7 @@ const FeaturedListings: React.FC = () => {
       baths: 2,
       sqft: '1,200',
       neighborhood: 'Desert Trails',
-      image: '/src/assets/4th.webp'
+      image: 'https://raw.githubusercontent.com/Leincentes/realtor/refs/heads/main/src/assets/4th.webp'
     },
     {
       id: 4,
@@ -55,7 +55,7 @@ const FeaturedListings: React.FC = () => {
       baths: 4,
       sqft: '3,100',
       neighborhood: 'Calvada Valley',
-      image: '/src/assets/5th.webp'
+      image: 'https://raw.githubusercontent.com/Leincentes/realtor/refs/heads/main/src/assets/5th.webp'
     }
   ];
 
