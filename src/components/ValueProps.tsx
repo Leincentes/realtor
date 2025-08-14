@@ -71,7 +71,7 @@ const ValueProps: React.FC = () => {
             {/* Marci's Photo */}
             <div className="relative">
               <img
-                src="/src/assets/Profile.webp"
+                src="https://raw.githubusercontent.com/Leincentes/realtor/refs/heads/main/src/assets/Profile.webp"
                 alt="Marci Metzger, Professional REALTOR® in Pahrump, Nevada"
                 className="w-full h-full object-cover min-h-[400px]"
               />

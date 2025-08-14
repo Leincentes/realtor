@@ -67,7 +67,7 @@ const Hero: React.FC = () => {
           <div className="hidden lg:block relative">
             <div className="relative rounded-2xl overflow-hidden shadow-2xl">
               <img
-                src="/src/assets/3rd.webp"
+                src="https://raw.githubusercontent.com/Leincentes/realtor/refs/heads/main/src/assets/3rd.webp"
                 alt="Stunning desert home with pool and mountain views in Pahrump, Nevada"
                 className="w-full h-[500px] object-cover"
                 loading="eager"

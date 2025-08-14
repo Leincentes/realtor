@@ -82,7 +82,7 @@ const BuyerResources: React.FC = () => {
             </div>
             <div className="relative">
               <img
-                src="/src/assets/10th.webp"
+                src="https://raw.githubusercontent.com/Leincentes/realtor/refs/heads/main/src/assets/10th.webp"
                 alt="Modern kitchen and living space in Pahrump home"
                 className="w-full h-64 object-cover rounded-xl shadow-lg"
               />

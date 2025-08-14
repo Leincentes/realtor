@@ -56,7 +56,7 @@ const Footer: React.FC = () => {
             </div>
             <div className="relative hidden lg:block">
               <img
-                src="/src/assets/Profile.webp"
+                src="https://raw.githubusercontent.com/Leincentes/realtor/refs/heads/main/src/assets/Profile.webp"
                 alt="Marci Metzger, your trusted Pahrump REALTOR®"
                 className="w-full h-full object-cover"
               />
