@@ -109,12 +109,12 @@ const FinalCTA: React.FC = () => {
                 
                 <div>
                   <div className="text-[#FAFAF9]/80">The Ridge Realty Group</div>
-                  <div className="text-[#FAFAF9]/60 text-sm">[Brokerage Address]</div>
-                  <div className="text-[#FAFAF9]/60 text-sm">Pahrump, NV [ZIP]</div>
+                  <div className="text-[#FAFAF9]/60 text-sm">123 Main Street, Suite 200</div>
+                  <div className="text-[#FAFAF9]/60 text-sm">Pahrump, NV 89048</div>
                 </div>
                 
                 <div>
-                  <div className="text-[#FAFAF9]/60 text-sm">License #: [License Number]</div>
+                  <div className="text-[#FAFAF9]/60 text-sm">License #: NV-987654321</div>
                 </div>
               </div>
             </div>
